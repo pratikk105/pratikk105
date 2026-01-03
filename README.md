@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a highly motivated Computer Engineering professional currently pursuing my B.E. in Information Technology at Savitribai Phule Pune University (CGPA: 8.10). Having already completed a Diploma in Computer Science & Engineering with 89.09%, I possess a unique blend of practical technical skills and advanced theoretical knowledge. My portfolio features diverse projects ranging from SeeknPlay, a full-stack social platform for athletes, to solar-powered IoT systems and Java-based inventory management tools. I am proficient in Python, Java, and React.js, and hold a 5-star Gold badge in SQL from HackerRank. With leadership experience as the former President of the "SoftClone" association, I am dedicated to building scalable solutions and driving technical innovation.<br><br><br>Education: B.E. in IT (Expected 2027)  | Diploma in CSE (Completed 2024) <br><br>Tech Stack: Python, Java, React.js, Firebase, MySQL, and C++ <br><br>IoT Expertise: AWS IoT, ESP32, Arduino, and Raspberry Pi <br><br>Certifications: SQL Advanced (HackerRank) <br><br>Leadership: Former President of the "SoftClone" CSE Department Association
+I am a highly motivated Computer Engineering professional currently pursuing my B.E. in Information Technology at Savitribai Phule Pune University (CGPA: 8.50). Having already completed a Diploma in Computer Science & Engineering with 89.09%, I possess a unique blend of practical technical skills and advanced theoretical knowledge. My portfolio features diverse projects ranging from SeeknPlay, a full-stack social platform for athletes, to solar-powered IoT systems and Java-based inventory management tools. I am proficient in Python, Java, and React.js, and hold a 5-star Gold badge in SQL from HackerRank. With leadership experience as the former President of the "SoftClone" association, I am dedicated to building scalable solutions and driving technical innovation.<br><br><br>Education: B.E. in IT (Expected 2027)  | Diploma in CSE (Completed 2024) <br><br>Tech Stack: Python, Java, React.js, Firebase, MySQL, and C++ <br><br>IoT Expertise: AWS IoT, ESP32, Arduino, and Raspberry Pi <br><br>Certifications: SQL Advanced (HackerRank) <br><br>Leadership: Former President of the "SoftClone" CSE Department Association
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ I am a highly motivated Computer Engineering professional currently pursuing my 
 ![](https://github-readme-stats.vercel.app/api?username=pratikk105&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pratikk105&theme=default_repocard&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikk105&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pratikk105&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pratikk105&icon=0&color=0)](https://visitcount.itsvg.in)
